@@ -1,0 +1,17 @@
+body{
+    background-color: black;
+}
+h1{
+    text-align: center;
+    color: orange;
+    margin-top: 150px;
+}
+.countdown{
+    max-width : 500px;
+    height: auto;
+    margin: 30px auto;
+    color: white;
+    text-align: center;
+    font-family: sans-serif;
+    font-size: 40px;
+}
